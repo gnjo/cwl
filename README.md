@@ -1,10 +1,11 @@
 # ling
 ```
-//method ling(query,caller,linedrawer)
+//method ling(query,updatecaller,linedrawer)
 ling('.x',(text)=>{},(i)=>{return i})
 ```
 ```
-.x
- .lines //
- .text //contenteditable
+<div class='.x'>
+<div></div>
+<div></div>
+</div>
 ```
